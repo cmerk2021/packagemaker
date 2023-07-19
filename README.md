@@ -3,7 +3,7 @@ Create installer packages easily with Package Maker! Find instructions below on 
 
 ----- SETUP -----
 
-To install, local the installer package in the installation folder.
+To install, local the installer package in the installation folder. Download it by pressing Ctrl + Shift + S, and then open the installer. Then, installer will install Package Maker.
 
 ----- USAGE -----
 
