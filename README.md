@@ -1,11 +1,11 @@
 # packagemaker
 Create installer packages easily with Package Maker! Find instructions below on how to install and use the app.
 
------ SETUP -----
+# Setup
 
 To install, locate the installer package in the installation folder. Download it by pressing Ctrl + Shift + S, and then open the installer. Then, installer will install Package Maker.
 
------ USAGE -----
+# Usage
 
 1. First off, open the application.
 2. You will be asked for the name of your app. Enter the name of your app, and press "Ok".
@@ -14,7 +14,7 @@ To install, locate the installer package in the installation folder. Download it
 5. Finally, you will be prompted to select a file. Select the application of that you would like to make a package for.
 6. Your package will be created and shown in Finder.
 
------ CHANGELOGS -----
+# Changelogs
 
-V 1.0.1
+### V 1.0.1
 - Includes minor bug fixes.
