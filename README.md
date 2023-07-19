@@ -1,4 +1,4 @@
-# packagemaker
+# Package Maker
 Create installer packages easily with Package Maker! Find instructions below on how to install and use the app.
 
 # Setup
